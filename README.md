@@ -1,7 +1,11 @@
 # 🛒 TechStore — Proyecto de Planificación y Gestión de Redes
 
 **Docente:** Ing. Ericka Oyague B. MSc.  
-**Estudiante:** Lucas Sánchez  
+**Integrantes:** Lucas Sánchez, 
+                 Marmolejo Sancan Alisson Johana,
+                 Peñafiel Alvarado Edinson Enrique, 
+                 Romero Merchan Carolina Yamilex
+                 
 **Período:** 2025 - CII  
 **Universidad de Guayaquil**
 
