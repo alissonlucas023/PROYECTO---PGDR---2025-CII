@@ -8,6 +8,7 @@
                  
 **Período:** 2025 - CII  
 **Universidad de Guayaquil**
+
 **Carrera Telematica**
 
 ---
