@@ -1,0 +1,16 @@
+zabbix_export:
+  version: '7.0'
+  host_groups:
+    - uuid: ef6505d463e446c0b6531234084d7707
+      name: 'Windows servers'
+  hosts:
+    - host: Windows-TechStore
+      name: Windows-TechStore
+      templates:
+        - name: 'Windows by Zabbix agent active'
+      groups:
+        - name: 'Windows servers'
+      interfaces:
+        - ip: 192.168.100.134
+          interface_ref: if1
+      inventory_mode: DISABLED
