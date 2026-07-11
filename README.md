@@ -8,6 +8,7 @@
                  
 **Período:** 2025 - CII  
 **Universidad de Guayaquil**
+**Carrera Telematica**
 
 ---
 
@@ -219,10 +220,3 @@ Las órdenes de compra se procesan de forma asíncrona mediante RabbitMQ:
 - **Solución propuesta:** Aumentar hilos de Waitress a 16 o más
 
 ---
-
-## 👨‍💻 Autor
-
-**Lucas Sánchez**  
-Carrera de Telemática  
-Universidad de Guayaquil  
-2026
